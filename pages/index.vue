@@ -11,4 +11,11 @@
 <script setup lang="ts">
 const  HasShow = useHasShow()
 </script>
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+.home{
+    width: 375px;
+    font-size: 24px;
+    height: 667px;
+}
+
+</style>
