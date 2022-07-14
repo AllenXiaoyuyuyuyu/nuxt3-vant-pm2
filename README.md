@@ -1,3 +1,4 @@
+[![OSCS Status](https://www.oscs1024.com/platform/badge/AllenXiaoyuyuyuyu/nuxt3-vant-pm2.svg?size=small)](https://www.oscs1024.com/project/AllenXiaoyuyuyuyu/nuxt3-vant-pm2?ref=badge_small)
 # nuxt3-vant
 nuxt3+vant+PM2的基础框架
 
