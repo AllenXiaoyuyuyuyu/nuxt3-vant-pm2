@@ -3,7 +3,7 @@ nuxt3+vant+PM2的基础框架
 
 nuxt3采用fetch，详情请查看nuxt3文档
 
-默认是移动端用了 转rem的插件，如果PC端自己去掉就行
+默认是移动端用了 转vw的插件，如果PC端自己去掉就行
 
 composables 文件夹采用了 useState
 
