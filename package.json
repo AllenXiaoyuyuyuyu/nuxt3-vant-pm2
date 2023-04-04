@@ -13,7 +13,7 @@
     "devDependencies": {
         "@rollup/plugin-babel": "^5.3.1",
         "eslint": "^8.18.0",
-        "nuxt": "3.0.0-rc.4",
+        "nuxt": "^3.3.3",
         "postcss-px-to-viewport": "^1.1.1",
         "sass": "^1.52.3",
         "sass-loader": "^13.0.0"
@@ -45,7 +45,8 @@
         "postcss-pxtorem": "^6.0.0",
         "prettier": "2.5.1",
         "pretty-quick": "v3.1.3 ",
-        "vant": "^3.5.1",
+        "vant": "^4.0.0",
+        "@vant/compat": "^1.0.0",
         "vite-plugin-svg-transform-script": "1.1.0"
     },
     "config": {
